@@ -12,3 +12,5 @@ obj/
 *.svd
 *.userprefs
 .vs/unity_q1/v15/Server/sqlite3/db.lock
+.vs/unity_q1/v15/Server/sqlite3/storage.ide-wal
+*.ide-wal

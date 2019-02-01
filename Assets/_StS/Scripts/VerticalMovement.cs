@@ -11,7 +11,7 @@ public class VerticalMovement : MonoBehaviour
 
     public bool Mode { get => mode; set => mode = value; }
 
-   // Start is called before the first frame update
+    // Start is called before the first frame update
     void Start()
     {
 
